@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Nov 2022 - Apr 2026",
+            "cardTitle": "B.Tech, Electrical Engineering",
+            "cardSubtitle":"IIT Kharagpur",
+            "cardDetailedText": "CGPA - NA",
+            "icon" : {
+                "src": "images/education/logo.png"
+            }
+        },
+        {
+            "title": "Apr 2020",
+            "cardTitle": "High School",
+            "cardSubtitle":"Beachwood School, Durgapur",
+            "cardDetailedText": "Marks - 96%"
+        }
+    ]
+}

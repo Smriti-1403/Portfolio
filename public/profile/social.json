@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/smriti-kumari-884026257/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/Smriti-1403"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:test@test.com"
+        }
+    ]
+}
